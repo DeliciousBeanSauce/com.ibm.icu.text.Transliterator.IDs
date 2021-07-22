@@ -1,8 +1,8 @@
 # com.ibm.icu.text.Transliterator.IDs
 
-ASCII-Latin\n
-Accents-Any
-Amharic-Latin/BGN
+ASCII-Latin  
+Accents-Any  
+Amharic-Latin/BGN  
 Any-Accents
 Any-Publishing
 Arab-Latn
