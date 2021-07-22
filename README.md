@@ -1,6 +1,6 @@
 # com.ibm.icu.text.Transliterator.IDs
 
-ASCII-Latin
+ASCII-Latin\n
 Accents-Any
 Amharic-Latin/BGN
 Any-Accents
